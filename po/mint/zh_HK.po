@@ -1,0 +1,302 @@
+# Chinese (Hong Kong) translation for linuxmint
+# Copyright (c) 2011 Rosetta Contributors and Canonical Ltd 2011
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-05-04 16:14+0200\n"
+"PO-Revision-Date: 2012-04-29 00:17+0000\n"
+"Last-Translator: Godwin <godwincodes@gmail.com>\n"
+"Language-Team: Chinese (Hong Kong) <zh_HK@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-05-04 16:22+0000\n"
+"X-Generator: Launchpad (build 16598)\n"
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/chat.html:1
+msgid "Stay connected"
+msgstr "保持連接"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/chat.html:8
+msgid ""
+"Keep in touch with your friends and contacts, by email, messenger or on your "
+"favorite social networks. Linux Mint provides all you need to interact with "
+"Twitter, Facebook, MSN, ICQ, GoogleTalk, AIM, Yahoo and many other networks."
+msgstr ""
+"以電郵、即時通訊和你喜愛的社交網絡與你的朋友和聯絡人保持聯繫。Linux Mint 提供與 "
+"Twitter、Facebook、MSN、ICQ、GoogleTalk、AIM、Yahoo 和其他網絡互動的軟件。"
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/mint/slides/chat.html:12 slideshows/mint/slides/music.html:12
+#: slideshows/mint/slides/office.html:12 slideshows/mint/slides/photos.html:12
+#: slideshows/mint/slides/video.html:12 slideshows/mint/slides/web.html:12
+msgid "Included software"
+msgstr "包含軟件"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/chat.html:16
+msgid "Thunderbird"
+msgstr "Thunderbird"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/chat.html:20
+msgid "Pidgin"
+msgstr "Pidgin"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/chat.html:24
+msgid "Xchat"
+msgstr "Xchat"
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/customize.html:1
+msgid "Customize your desktop"
+msgstr "自訂您的桌面"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/customize.html:8
+msgid ""
+"Make yourself at home and modify any aspect of your desktop. Choose from a "
+"large variety of themes, icons and backgrounds. Linux Mint is open and easy "
+"to customize."
+msgstr "隨時您的桌面上的任何細節。有種類繁多的主題，圖示和背景 任君選擇。Linux Mint 是完全開放的作業系統 很容易自定制。"
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/help.html:1
+msgid "Find help"
+msgstr "尋求協助"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/help.html:8
+msgid ""
+"If you're curious about something or if you're facing a problem, simply ask "
+"around. Linux Mint is the 4th most widely used operating system in the "
+"World. It comes with a user guide, a community website, a collection of "
+"tutorials, active forums and chat rooms and one of the most dynamic "
+"communities on the Internet."
+msgstr ""
+"如果你對Mint的細節好奇 或如果你遇到難題 有問必答. Linux Mint 第四世界上最多人用的作業系統. "
+"它有用戶指南，社區網站，教程，活躍論壇和聊天室，並在互聯網上最有活力的社區之一。"
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/music.html:1
+msgid "Listen to music and CDs"
+msgstr "聆聽音樂光碟"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/music.html:8
+msgid ""
+"Enjoy your music with Banshee. Plug-in your MP3 player or extract songs from "
+"your audio CDs. Listen to podcasts and online radios. Discover new artists "
+"on Last.fm, the Internet Archive and the Amazon MP3 Store."
+msgstr ""
+"用Banshee去享受音樂。 插件在你的MP3播放器或從音頻CD提取歌曲。聽播客和在線收音機。用Last.fm, the Internet "
+"Archive 和 Amazon MP3 Store 去發掘新人。"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/music.html:16
+msgid "Banshee"
+msgstr "Banshee"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/music.html:20
+msgid "Audio codecs"
+msgstr "音頻編解碼器"
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/office.html:1
+msgid "Be productive"
+msgstr "高效率"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/office.html:8
+msgid ""
+"Use LibreOffice to create professional documents, spreadsheets and "
+"presentations that are fully compatible with Microsoft Office. Archive "
+"documents, emails, or web pages to PDF. Send and receive files with Giver on "
+"the local network. Share printers or access them remotely."
+msgstr ""
+"用LibreOffice 去創造與Microsoft Office完全兼容的文檔，電子表格和演示。歸檔文件，電子郵件或網頁為PDF。用 Giver "
+"在本地網絡共享打印機,發送和接收文件。"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/office.html:16
+msgid "LibreOffice"
+msgstr "LibreOffice"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/office.html:20
+msgid "Giver"
+msgstr "給予者"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/office.html:24
+msgid "PDF Printer"
+msgstr "PDF 打印機"
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/photos.html:1
+msgid "Manage your photos"
+msgstr "管理你的照片"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/photos.html:8
+msgid ""
+"Organize, enjoy and share your photos with gThumb or Picasa. Export your "
+"albums to CD, to the Web, or to online services such as Flickr or PicasaWeb "
+"to share them with friends and family."
+msgstr ""
+"用gThumb 或 Picasa 去組織，欣賞和共享您的照片。匯出您的相冊到CD，網絡或在線服務如 Flickr 或 PicasaWeb。"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/photos.html:16
+msgid "gThumb"
+msgstr "gThumb"
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/software.html:1
+msgid "Install software"
+msgstr "安裝軟件"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/software.html:8
+msgid ""
+"Browse through 30,000 free applications from the Software Manager. Enjoy "
+"screenshots and user reviews. Install software with one click of the mouse."
+msgstr "用軟件管理員去瀏覽30000件免費軟件。參考軟件的截圖和用戶評論。鼠標一擊 即刻安裝。"
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/mint/slides/software.html:12
+#: slideshows/mint/slides/windows.html:12
+msgid "Featured software"
+msgstr "重點軟件"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/software.html:16
+msgid "Filezilla"
+msgstr "Filezilla"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/software.html:20
+msgid "Skype"
+msgstr "Skype"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/software.html:24
+msgid "Audacity"
+msgstr "Audacity"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/software.html:28
+msgid "Picasa"
+msgstr "Picasa"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/software.html:32
+msgid "Google Earth"
+msgstr "Google Earth"
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/updates.html:1
+msgid "Keep your system up to date"
+msgstr "請保持您的系統最新"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/updates.html:8
+msgid ""
+"Receive fixes and security updates all in one place, for the entire system, "
+"including the software you install."
+msgstr "在一個地方,接收修整個系統(包括你行安裝的軟件)的補程序和安全更新"
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/video.html:1
+msgid "Watch videos and DVDs"
+msgstr "觀看影片和DVD"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/video.html:8
+msgid ""
+"Insert a DVD and enjoy a movie. Watch high-definition videos with VLC."
+msgstr "插入DVD欣賞電影。用VLC觀看高清晰度視頻。"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/video.html:16
+msgid "VLC"
+msgstr "VLC"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/video.html:20
+msgid "Totem"
+msgstr "Totem"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/video.html:24
+msgid "Video codecs"
+msgstr "視頻編解碼器"
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/web.html:1
+msgid "Browse the web"
+msgstr "瀏覽網頁"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/web.html:8
+msgid ""
+"Be fast and safe on the web with Mozilla Firefox. Enjoy Java, Flash and "
+"multimedia content."
+msgstr "用Mozilla Firefox上網,更快速和安全。享受的Java，Flash和多媒體內容。"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/web.html:16
+msgid "Firefox"
+msgstr "火狐"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/web.html:20
+msgid "Flash"
+msgstr "Flash"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/web.html:24
+msgid "Java"
+msgstr "Java"
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/welcome.html:1
+msgid "Welcome to Linux Mint"
+msgstr "歡迎使用 Linux Mint"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/welcome.html:8
+msgid ""
+"Welcome and thank you for choosing Linux Mint. This slideshow will show you "
+"around while the system is being installed on your computer."
+msgstr "歡迎並多謝您選擇Linux Mint. 此幻燈片在安裝過程中將Mint的許多功能向您介紹."
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/windows.html:1
+msgid "Run Windows software"
+msgstr "運行Windows軟件"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/windows.html:8
+msgid ""
+"Install Wine and run Windows software in Linux Mint. Or install Virtualbox, "
+"and run Windows itself within Linux Mint."
+msgstr "用去運行Windows軟件, 或安裝Virtualbox, 將Windows虛擬化在Linux Mint裡."
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/windows.html:16
+msgid "Wine"
+msgstr "Wine"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/windows.html:20
+msgid "Virtualbox"
+msgstr "Virtualbox"
