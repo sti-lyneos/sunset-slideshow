@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-05-04 16:14+0200\n"
-"PO-Revision-Date: 2011-05-29 09:46+0000\n"
+"POT-Creation-Date: 2013-10-29 12:31+0000\n"
+"PO-Revision-Date: 2013-10-30 05:22+0000\n"
 "Last-Translator: Wylmer Wang <Unknown>\n"
 "Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-05-04 16:22+0000\n"
-"X-Generator: Launchpad (build 16598)\n"
+"X-Launchpad-Export-Date: 2013-11-07 10:11+0000\n"
+"X-Generator: Launchpad (build 16820)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/chat.html:1
@@ -118,12 +118,9 @@ msgstr "卓有成效"
 #: slideshows/mint/slides/office.html:8
 msgid ""
 "Use LibreOffice to create professional documents, spreadsheets and "
-"presentations that are fully compatible with Microsoft Office. Archive "
-"documents, emails, or web pages to PDF. Send and receive files with Giver on "
-"the local network. Share printers or access them remotely."
-msgstr ""
-"使用 LibreOffice 创建与微软 Office完全兼容的专业文档、电子表格和演示文稿。将文档、邮件或网页转存为 PDF。通过 Giver "
-"在局域网内发送接收文件。共享和远程访问打印机。"
+"presentations that are fully compatible with Microsoft Office. Share "
+"printers or access them remotely."
+msgstr "使用 LibreOffice 创建专业文档、电子表格和演示文档。与微软 Office 完全兼容。共享打印机或远程访问打印机。"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:16
@@ -132,13 +129,13 @@ msgstr "LibreOffice"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:20
-msgid "Giver"
-msgstr "Giver"
+msgid "Microsoft Office Support"
+msgstr "Microsoft Office 支持"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:24
-msgid "PDF Printer"
-msgstr "PDF Printer"
+msgid "PDF Support"
+msgstr "PDF 支持"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/photos.html:1

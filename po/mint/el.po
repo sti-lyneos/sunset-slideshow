@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-05-04 16:14+0200\n"
-"PO-Revision-Date: 2011-05-16 20:11+0000\n"
-"Last-Translator: StratosJL <stratos@laspas.gr>\n"
+"POT-Creation-Date: 2013-10-29 12:31+0000\n"
+"PO-Revision-Date: 2013-10-31 12:50+0000\n"
+"Last-Translator: Mike Bestas <mikeioannina@gmail.com>\n"
 "Language-Team: Greek <el@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-05-04 16:22+0000\n"
-"X-Generator: Launchpad (build 16598)\n"
+"X-Launchpad-Export-Date: 2013-11-07 10:11+0000\n"
+"X-Generator: Launchpad (build 16820)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/chat.html:1
@@ -129,15 +129,9 @@ msgstr "Γίνετε παραγωγικοί"
 #: slideshows/mint/slides/office.html:8
 msgid ""
 "Use LibreOffice to create professional documents, spreadsheets and "
-"presentations that are fully compatible with Microsoft Office. Archive "
-"documents, emails, or web pages to PDF. Send and receive files with Giver on "
-"the local network. Share printers or access them remotely."
+"presentations that are fully compatible with Microsoft Office. Share "
+"printers or access them remotely."
 msgstr ""
-"Χρησιμοποιήστε το LibreOffice για να δημιουργήσετε επαγγελματικά έγγραφα, "
-"λογιστικά φύλλα και παρουσιάσεις, οι οποίες είναι πλήρως συμβιβαστές με το "
-"Microsoft Office. Αποθηκεύστε έγγραφα, μηνύματα ηλεκτρονικού ταχυδρομείου ή "
-"ιστοσελίδες σε PDF. Στείλτε και λάβετε αρχεία με το Giver μέσα σε τοπικό "
-"δίκτυο. Μοιραστείτε εκτυπωτές ή χειριστείτε τους απομακρυσμένα."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:16
@@ -146,13 +140,13 @@ msgstr "Σουίτα γραφείου LibreOffice"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:20
-msgid "Giver"
-msgstr "Giver"
+msgid "Microsoft Office Support"
+msgstr "Υποστήριξη Microsoft Office"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:24
-msgid "PDF Printer"
-msgstr "Εκτυπωτής PDF"
+msgid "PDF Support"
+msgstr "Υποστήριξη PDF"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/photos.html:1

@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-05-04 16:14+0200\n"
-"PO-Revision-Date: 2011-05-25 09:22+0000\n"
-"Last-Translator: syzwn <Unknown>\n"
+"POT-Creation-Date: 2013-10-29 12:31+0000\n"
+"PO-Revision-Date: 2013-10-31 11:43+0000\n"
+"Last-Translator: abuyop <Unknown>\n"
 "Language-Team: Malay <ms@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-05-04 16:22+0000\n"
-"X-Generator: Launchpad (build 16598)\n"
+"X-Launchpad-Export-Date: 2013-11-07 10:11+0000\n"
+"X-Generator: Launchpad (build 16820)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/chat.html:1
@@ -127,15 +127,12 @@ msgstr "Jadi produktif"
 #: slideshows/mint/slides/office.html:8
 msgid ""
 "Use LibreOffice to create professional documents, spreadsheets and "
-"presentations that are fully compatible with Microsoft Office. Archive "
-"documents, emails, or web pages to PDF. Send and receive files with Giver on "
-"the local network. Share printers or access them remotely."
+"presentations that are fully compatible with Microsoft Office. Share "
+"printers or access them remotely."
 msgstr ""
-"Gunakan LibreOffice untuk menghasilkan dokumen professional, lembaran "
-"hamparan dan pembentangan yang serasi sepenuhnya dengan Microsoft Office. "
-"Arkibkan dokumen, email atau laman web ke PDF. Hantar dan terima fail dengan "
-"Giver dalam rangkaian setempat. Kongsikan pencetak atau aksesnya secara dari "
-"jauh."
+"Guna LibreOffice untuk cipta dokumen, lembaran elektronik dan persembahan "
+"profesional yang sepenuhnya serasi dengan Microsoft Office. Kongsi pencetak "
+"atau capai ia secara jauh."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:16
@@ -144,13 +141,13 @@ msgstr "LibreOffice"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:20
-msgid "Giver"
-msgstr "Giver"
+msgid "Microsoft Office Support"
+msgstr "Sokongan Microsoft Office"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:24
-msgid "PDF Printer"
-msgstr "Pencetak PDF"
+msgid "PDF Support"
+msgstr "Sokongan PDF"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/photos.html:1

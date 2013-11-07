@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-05-04 16:14+0200\n"
-"PO-Revision-Date: 2012-09-25 06:27+0000\n"
+"POT-Creation-Date: 2013-10-29 12:31+0000\n"
+"PO-Revision-Date: 2013-06-15 12:37+0000\n"
 "Last-Translator: Niroj Manandhar <mailnirose@yahoo.com>\n"
 "Language-Team: Nepali <ne@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-05-04 16:22+0000\n"
-"X-Generator: Launchpad (build 16598)\n"
+"X-Launchpad-Export-Date: 2013-11-07 10:11+0000\n"
+"X-Generator: Launchpad (build 16820)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/chat.html:1
@@ -39,7 +39,7 @@ msgstr ""
 #: slideshows/mint/slides/office.html:12 slideshows/mint/slides/photos.html:12
 #: slideshows/mint/slides/video.html:12 slideshows/mint/slides/web.html:12
 msgid "Included software"
-msgstr "उपलभ्द सफ्टवेर"
+msgstr "उपलब्ध सफ्टवेयर"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/chat.html:16
@@ -59,7 +59,7 @@ msgstr "एक्स च्याट"
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/customize.html:1
 msgid "Customize your desktop"
-msgstr "आफ्नो डेस्कटपलाई कुस्तमाइज गर्नुहोस् ।"
+msgstr "आफ्नो डेस्कटपलाई अनुकूलित बनाउनुहोस्।"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/customize.html:8
@@ -68,6 +68,9 @@ msgid ""
 "large variety of themes, icons and backgrounds. Linux Mint is open and easy "
 "to customize."
 msgstr ""
+"आफुलाई घरमै सम्झी डेस्कटपका कुनैपनी स्वरूप बादलनुहोस्। उपलब्ध विविध थेम, "
+"आइकन, पृष्ठभूमिहरुबाट मन्परेका चुन्नुहोस्। लिनक्स मिन्ट आफ्नो अनुकूलित बनाउन "
+"निकै सजिलो छ।"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/help.html:1
@@ -83,11 +86,15 @@ msgid ""
 "tutorials, active forums and chat rooms and one of the most dynamic "
 "communities on the Internet."
 msgstr ""
+"यदी तपाईंलाई केही जिज्ञासा या केही समस्या छन भने सोध्नुहोस्। लिनक्स मिन्ट "
+"बिस्वको चौथो ब्यापक प्रयोग गरिने अपेरतिङ सिस्टम हो। यो प्रयोगकर्ताका लागि "
+"गाईड, समुदाइक वेब साईट, ट्यूटोरियलका संग्रह, सक्रिय फोरुमrहरु र च्याट "
+"रूम्सहरु पाइन्छन र यो ईन्टरनेटकै  सबैभन्दा क्रियाशील समुदायमा पर्छ।"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/music.html:1
 msgid "Listen to music and CDs"
-msgstr "संगीत र सीडी सुन्नुहोस् ।"
+msgstr "संगीत र सीडीहरु सुन्नुहोस् |"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/music.html:8
@@ -96,16 +103,19 @@ msgid ""
 "your audio CDs. Listen to podcasts and online radios. Discover new artists "
 "on Last.fm, the Internet Archive and the Amazon MP3 Store."
 msgstr ""
+"बन्शीसँग तपाईंको संगीतमा रम्नुहोस् | तपाईंको MP3 उपकरण जोद्नुहोस् अथवा "
+"सि.डिबाट गीतहरु निकाल्नुस् | अन्लाईन रेडियो या पद्कास्तहरु सुन्नुहोस् | "
+"Last.fm, the Internet Archive  र Amazon MP3  बाट नयाँ कलाकारहरु भेटाउनुहोस् |"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/music.html:16
 msgid "Banshee"
-msgstr ""
+msgstr "बन्शी"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/music.html:20
 msgid "Audio codecs"
-msgstr "अडियो कोडेक"
+msgstr "अडियो कोडेकहरु"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/office.html:1
@@ -116,25 +126,24 @@ msgstr "उत्पादकत्वो बदाउनुहोस् ।"
 #: slideshows/mint/slides/office.html:8
 msgid ""
 "Use LibreOffice to create professional documents, spreadsheets and "
-"presentations that are fully compatible with Microsoft Office. Archive "
-"documents, emails, or web pages to PDF. Send and receive files with Giver on "
-"the local network. Share printers or access them remotely."
+"presentations that are fully compatible with Microsoft Office. Share "
+"printers or access them remotely."
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:16
 msgid "LibreOffice"
-msgstr ""
+msgstr "लिब्रेअफिस"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:20
-msgid "Giver"
+msgid "Microsoft Office Support"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:24
-msgid "PDF Printer"
-msgstr "PDF मुद्रक"
+msgid "PDF Support"
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/photos.html:1
@@ -148,16 +157,19 @@ msgid ""
 "albums to CD, to the Web, or to online services such as Flickr or PicasaWeb "
 "to share them with friends and family."
 msgstr ""
+"तपाईंका तस्बिरहरु जि-थम्ब या पिकासाबाट हेर्नुहोस्, बाद्नुहोस् र संगठित "
+"गर्नुहोस् । आफ्नो गीतका सङ्रहहरु सि.डिमा, ईन्टरनेटमा या अन्लाईन सेवा प्रदायक "
+"जस्तै Flickr या PicasaWebमा राखेर साथी अथवा परिवारसँग बाद्नुहोस् ।"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/photos.html:16
 msgid "gThumb"
-msgstr ""
+msgstr "जि-थम्ब"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/software.html:1
 msgid "Install software"
-msgstr ""
+msgstr "सफ्टवेर इन्स्टल गर्नुहोस्।"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/software.html:8
@@ -165,42 +177,45 @@ msgid ""
 "Browse through 30,000 free applications from the Software Manager. Enjoy "
 "screenshots and user reviews. Install software with one click of the mouse."
 msgstr ""
+"सफ्टवेर म्यानेजरबाट ३०,००० भन्दा बदी प्रोग्रामहरु हेर्नुहोस्। स्क्रीनशट र "
+"आरु उपयोगकर्तका समीक्षा हेर्नुहोस्। माउसको एक क्लिकले सफ्टवेरहरु इन्स्तल्ल "
+"गर्नुहोस्।"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/mint/slides/software.html:12
 #: slideshows/mint/slides/windows.html:12
 msgid "Featured software"
-msgstr ""
+msgstr "बिशेष सफ्टवेर"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/software.html:16
 msgid "Filezilla"
-msgstr ""
+msgstr "फाइलजिल्ला"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/software.html:20
 msgid "Skype"
-msgstr ""
+msgstr "स्काइप"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/software.html:24
 msgid "Audacity"
-msgstr ""
+msgstr "अदासिटी"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/software.html:28
 msgid "Picasa"
-msgstr ""
+msgstr "पिकाशा"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/software.html:32
 msgid "Google Earth"
-msgstr ""
+msgstr "गूगल पृथ्वी"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/updates.html:1
 msgid "Keep your system up to date"
-msgstr ""
+msgstr "आफ्नो सिस्टम अप तु देत राख्नुहोस्।"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/updates.html:8
@@ -208,37 +223,41 @@ msgid ""
 "Receive fixes and security updates all in one place, for the entire system, "
 "including the software you install."
 msgstr ""
+"आफुले इन्स्टल गरेका सफ्टवेर र सम्पूर्ण सिस्टमको लागि नयाँ सुरक्षा, सुधार "
+"अपडेट एकै ठाउँमा पाउनुहोस्।"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/video.html:1
 msgid "Watch videos and DVDs"
-msgstr ""
+msgstr "डि.भि.डि र भिडियोहरु हेर्नुहोस् |"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/video.html:8
 msgid ""
 "Insert a DVD and enjoy a movie. Watch high-definition videos with VLC."
 msgstr ""
+"डि.भि.डि राखेर फिल्मको मजा लिनुहोस् | काफ्फेइनसँग उच्च गुणवत्ताको भिडियो "
+"हेर्नुहोस् |"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/video.html:16
 msgid "VLC"
-msgstr ""
+msgstr "भि.एल.सि"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/video.html:20
 msgid "Totem"
-msgstr ""
+msgstr "टोटेम"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/video.html:24
 msgid "Video codecs"
-msgstr ""
+msgstr "भिडियो कोडेक"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/web.html:1
 msgid "Browse the web"
-msgstr ""
+msgstr "वेब ब्राउज गर्नुहोस्"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/web.html:8
@@ -246,26 +265,28 @@ msgid ""
 "Be fast and safe on the web with Mozilla Firefox. Enjoy Java, Flash and "
 "multimedia content."
 msgstr ""
+"वेबमा मोजिला फायरफक्ससँग छिटो तथा सुरक्षित रहनुहोस्। जाभा, फ्ल्याश र "
+"मल्टिमिडियाको भरिपुर्ण आनन्द गर्नुहोस्।"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/web.html:16
 msgid "Firefox"
-msgstr ""
+msgstr "फायरफक्स"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/web.html:20
 msgid "Flash"
-msgstr ""
+msgstr "फ्ल्याश"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/web.html:24
 msgid "Java"
-msgstr ""
+msgstr "जाभा"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/welcome.html:1
 msgid "Welcome to Linux Mint"
-msgstr ""
+msgstr "लिनक्स मिन्टमा स्वागत छ |"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/welcome.html:8
@@ -273,11 +294,13 @@ msgid ""
 "Welcome and thank you for choosing Linux Mint. This slideshow will show you "
 "around while the system is being installed on your computer."
 msgstr ""
+"लिनक्स मिन्टलाई छान्नु भएकोमा तपाईलाई धन्यवाद छ र स्वागत गर्दछौँ। यो स्लाइड "
+"शो तपाईलाई जानकारी दिदैँ सिस्टम इन्स्टल गर्दैहुनेछ।"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/windows.html:1
 msgid "Run Windows software"
-msgstr ""
+msgstr "विन्डोजका सफ्टवेर चलाऊनुहोस्।"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/windows.html:8
@@ -285,13 +308,15 @@ msgid ""
 "Install Wine and run Windows software in Linux Mint. Or install Virtualbox, "
 "and run Windows itself within Linux Mint."
 msgstr ""
+"वाइन इन्स्तल गरेर विन्डोजका सफ्टवेर लिनक्स मिन्टमा चलाऊन्होस्। अथवा "
+"भर्तुअलबक्स इन्स्तल गरी लिनक्स मिन्टमै विन्डोज चलाऊनुहोस्।"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/windows.html:16
 msgid "Wine"
-msgstr ""
+msgstr "वाइन"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/windows.html:20
 msgid "Virtualbox"
-msgstr ""
+msgstr "भर्तुअलबक्स"

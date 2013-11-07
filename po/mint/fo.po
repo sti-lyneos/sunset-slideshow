@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-05-04 16:14+0200\n"
+"POT-Creation-Date: 2013-10-29 12:31+0000\n"
 "PO-Revision-Date: 2011-07-17 18:36+0000\n"
 "Last-Translator: Gunleif Joensen <Unknown>\n"
 "Language-Team: Føroyabólkurin\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-05-04 16:22+0000\n"
-"X-Generator: Launchpad (build 16598)\n"
+"X-Launchpad-Export-Date: 2013-11-07 10:11+0000\n"
+"X-Generator: Launchpad (build 16820)\n"
 "Language: fo\n"
 
 #. type: Content of: <div><h1>
@@ -126,9 +126,8 @@ msgstr "Verð virkin"
 #: slideshows/mint/slides/office.html:8
 msgid ""
 "Use LibreOffice to create professional documents, spreadsheets and "
-"presentations that are fully compatible with Microsoft Office. Archive "
-"documents, emails, or web pages to PDF. Send and receive files with Giver on "
-"the local network. Share printers or access them remotely."
+"presentations that are fully compatible with Microsoft Office. Share "
+"printers or access them remotely."
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
@@ -138,13 +137,13 @@ msgstr "LibreOffice"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:20
-msgid "Giver"
-msgstr "Giver"
+msgid "Microsoft Office Support"
+msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:24
-msgid "PDF Printer"
-msgstr "PDF prentari"
+msgid "PDF Support"
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/photos.html:1

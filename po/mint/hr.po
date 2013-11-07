@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-05-04 16:14+0200\n"
-"PO-Revision-Date: 2012-03-08 09:57+0000\n"
-"Last-Translator: Svjetlana Deronjic <Unknown>\n"
+"POT-Creation-Date: 2013-10-29 12:31+0000\n"
+"PO-Revision-Date: 2013-10-29 18:06+0000\n"
+"Last-Translator: gogo <trebelnik2@gmail.com>\n"
 "Language-Team: Croatian <hr@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-05-04 16:22+0000\n"
-"X-Generator: Launchpad (build 16598)\n"
+"X-Launchpad-Export-Date: 2013-11-07 10:11+0000\n"
+"X-Generator: Launchpad (build 16820)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/chat.html:1
@@ -39,7 +39,7 @@ msgstr ""
 #: slideshows/mint/slides/office.html:12 slideshows/mint/slides/photos.html:12
 #: slideshows/mint/slides/video.html:12 slideshows/mint/slides/web.html:12
 msgid "Included software"
-msgstr "Uključeni programi"
+msgstr "Uključeni softver"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/chat.html:16
@@ -49,7 +49,7 @@ msgstr "Thunderbird"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/chat.html:20
 msgid "Pidgin"
-msgstr "Pismonoša (Pidgin)"
+msgstr "Pidgin"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/chat.html:24
@@ -59,7 +59,7 @@ msgstr "Xchat"
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/customize.html:1
 msgid "Customize your desktop"
-msgstr "Prilagodite radnu površinu"
+msgstr "Prilagodite svoju radnu površinu"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/customize.html:8
@@ -68,9 +68,9 @@ msgid ""
 "large variety of themes, icons and backgrounds. Linux Mint is open and easy "
 "to customize."
 msgstr ""
-"Osjećajte se kao kod kuće i izmijenite bilo koji dio vaše radne površine. "
-"Odaberite iz velike ponude tema, ikona i pozadina. Linux Mint odlikuju "
-"velika dostupnost i prilagodljivost."
+"Osjećajte se kao kod kuće i prilagodite bilo koji dio vaše radne površine. "
+"Odaberite iz velike ponude tema, ikona i pozadina radne površine. Linux Mint "
+"je potpuno otvoren i lako prilagodljiv."
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/help.html:1
@@ -86,10 +86,11 @@ msgid ""
 "tutorials, active forums and chat rooms and one of the most dynamic "
 "communities on the Internet."
 msgstr ""
-"Ako vas nešto zanima ili imate problem, slobodno pitajte. Linux MInt 4. "
-"najzastupljeniji operacijski sustav na svijetu. Dolazi sa priručnikom, "
-"internetskom stranicom, skupom vodiča, aktivnim forumom i internetskim "
-"sobama za razgovor i jednom od najaktivnijih zajdnica na internetu."
+"Ako vas nešto zanima ili imate problem, slobodno pitajte. Linux MInt je 4. "
+"najzastupljeniji operativni sustav na svijetu. Dolazi sa korisničkim "
+"priručnikom, web stranicom zajednice, skupom vodiča, aktivnim forumom, "
+"internetskim sobama za razgovor i jednom od najaktivnijih zajednica na "
+"internetu."
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/music.html:1
@@ -103,9 +104,10 @@ msgid ""
 "your audio CDs. Listen to podcasts and online radios. Discover new artists "
 "on Last.fm, the Internet Archive and the Amazon MP3 Store."
 msgstr ""
-"Uživajte u glazbi s Banshee glazbenim sviračem. Spojite svoj ​​MP3 svirač "
-"ili ubacite audio CD. Poslušajte internetski radio. Otkrijte nove izvođače "
-"na Last.fm, Internet arhivu i Amazon MP3 trgovinu."
+"Uživajte u glazbi s Banshee glazbenim sviračem. Povežite svoj ​​MP3 svirač "
+"ili izdvojite pjesme sa vašeg glazbenog CD-a. Poslušajte podcaste ili "
+"internetski radio. Otkrijte nove izvođače na Last.fm-u, Internet arhivu i "
+"Amazon MP3 trgovini."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/music.html:16
@@ -115,26 +117,23 @@ msgstr "Banshee"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/music.html:20
 msgid "Audio codecs"
-msgstr "Zvučni kodeci"
+msgstr "Zvučni kôdeki"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/office.html:1
 msgid "Be productive"
-msgstr "Budite proizvodni"
+msgstr "Budite produktivni"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/office.html:8
 msgid ""
 "Use LibreOffice to create professional documents, spreadsheets and "
-"presentations that are fully compatible with Microsoft Office. Archive "
-"documents, emails, or web pages to PDF. Send and receive files with Giver on "
-"the local network. Share printers or access them remotely."
+"presentations that are fully compatible with Microsoft Office. Share "
+"printers or access them remotely."
 msgstr ""
-"Koristite LibreOffice za stvaranje profesionalnih dokumenata, proračunskih "
-"tablica i prezentacija koje su u potpunosti kompatibilni sa Microsoft "
-"Officeom. Izvezite dokumenate, e-poštu ili internetske stranice u PDF. "
-"Šaljite i primajte datoteke s Giverom na mjesnoj mreži. Dijelite pisače ili "
-"im pristupajte na daljinu."
+"Koristite LibreOffice za izradu profesionalnih dokumenata, proračunskih "
+"tablica i prezentacija koje su potpuno kompatibilne sa Microsoft Officom. "
+"Dijelite pisače ili im pristupite na daljinu."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:16
@@ -143,13 +142,13 @@ msgstr "LibreOffice"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:20
-msgid "Giver"
-msgstr "Giver"
+msgid "Microsoft Office Support"
+msgstr "Microsoft Office podrška"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:24
-msgid "PDF Printer"
-msgstr "PDF pisač"
+msgid "PDF Support"
+msgstr "PDF podrška"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/photos.html:1
@@ -163,9 +162,9 @@ msgid ""
 "albums to CD, to the Web, or to online services such as Flickr or PicasaWeb "
 "to share them with friends and family."
 msgstr ""
-"Organizirajte svoje fotografije, uživajte u njima i podijelite ih s drugima "
-"pomoću programa gThumb ili Picasa. Izvezite svoje albume na CD, postavite ih "
-"na internet, Flickr ili PicasaWeb i podijelite ih s prijateljima i obitelji."
+"Uživajte, organizirajte i dijelite svoje fotografije putem gThumba ili "
+"Picase. Izvezite svoje albume na CD, na Internet ili na online usluge poput "
+"Flickra i PicasaWeba i podijelite ih s prijateljima i svojom obitelji."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/photos.html:16
@@ -175,7 +174,7 @@ msgstr "gThumb"
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/software.html:1
 msgid "Install software"
-msgstr "Instalirajte programe"
+msgstr "Instalirajte softver"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/software.html:8
@@ -183,15 +182,15 @@ msgid ""
 "Browse through 30,000 free applications from the Software Manager. Enjoy "
 "screenshots and user reviews. Install software with one click of the mouse."
 msgstr ""
-"Pregledajte 30.000 besplatnih programa pomoću Upravitelja programa. Uživajte "
-"u pregledima i korisničkim kritikama.\r\n"
-"Instalirajte programe s jednim pritiskom miša."
+"Pregledajte 30.000 besplatnih aplikacija pomoću Upravitelja softverom. "
+"Uživajte u zaslonskim snimkama i recenzijama korisnika.\r\n"
+"Jednostavno instalirajte softver jednim klikom miša."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/mint/slides/software.html:12
 #: slideshows/mint/slides/windows.html:12
 msgid "Featured software"
-msgstr "Preporučeni programi"
+msgstr "Izdvojeni softver"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/software.html:16
@@ -216,12 +215,12 @@ msgstr "Picasa"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/software.html:32
 msgid "Google Earth"
-msgstr "Google Zemlja"
+msgstr "Google Earth"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/updates.html:1
 msgid "Keep your system up to date"
-msgstr "Redovito nadopunjujte sustav"
+msgstr "Redovito nadograđujte svoj sustav"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/updates.html:8
@@ -229,20 +228,21 @@ msgid ""
 "Receive fixes and security updates all in one place, for the entire system, "
 "including the software you install."
 msgstr ""
-"Primajte popravke i sigurnosna ažuriranja istovremeno za cijeli sustav, "
-"uključujući i instalirane programe."
+"Primajte popravke i sigurnosne nadopune istovremeno za cijeli sustav, "
+"uključujući i softver koji ste sami instalirali."
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/video.html:1
 msgid "Watch videos and DVDs"
-msgstr "Gledajte videe i DVD-e"
+msgstr "Gledajte video snimke i DVD-e"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/video.html:8
 msgid ""
 "Insert a DVD and enjoy a movie. Watch high-definition videos with VLC."
 msgstr ""
-"Umetnite DVD i uživajte u filmu. Gledajte video visoke rezolucije sa VLC-om."
+"Umetnite DVD i uživajte u filmu. Gledajte video snimke visoke razlučivosti "
+"sa VLC-om."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/video.html:16
@@ -257,12 +257,12 @@ msgstr "Totem"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/video.html:24
 msgid "Video codecs"
-msgstr "Video kodeci"
+msgstr "Video kôdeki"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/web.html:1
 msgid "Browse the web"
-msgstr "Pretražite internet"
+msgstr "Pretražujte Internet"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/web.html:8
@@ -270,8 +270,8 @@ msgid ""
 "Be fast and safe on the web with Mozilla Firefox. Enjoy Java, Flash and "
 "multimedia content."
 msgstr ""
-"Budite brzi i sigurni na internetu sa Mozilla Firefoxom. Uživajte u Javi, "
-"Flashu i multimedijalnim sadržajima."
+"Budite brzi i sigurni na Internetu sa Mozilla Firefoxom. Uživajte u Javi, "
+"Flashu i multimedijskim sadržajima."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/web.html:16
@@ -291,7 +291,7 @@ msgstr "Java"
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/welcome.html:1
 msgid "Welcome to Linux Mint"
-msgstr "Dobro došli u Linux Mint"
+msgstr "Dobrodošli u Linux Mint"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/welcome.html:8
@@ -299,13 +299,13 @@ msgid ""
 "Welcome and thank you for choosing Linux Mint. This slideshow will show you "
 "around while the system is being installed on your computer."
 msgstr ""
-"Dobrodošli i hvala vam za odabir Linux Minta. Za vrijeme intalacije sustava "
-"na vašem računalu mi ćemo vas upoznati sa njegovim osnovnim odlikama."
+"Dobrodošli i hvala Vam na odabiru Linux Minta. Ove prezentacijske snimke će "
+"vas  upoznati sa sustavom dok se on instalira na vaše računalo."
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/windows.html:1
 msgid "Run Windows software"
-msgstr "Pokrenite Windows programe"
+msgstr "Pokrenite Windows softver"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/windows.html:8
@@ -313,8 +313,8 @@ msgid ""
 "Install Wine and run Windows software in Linux Mint. Or install Virtualbox, "
 "and run Windows itself within Linux Mint."
 msgstr ""
-"Instalirajte Wine i pokrenite Windows programe u Linux Mintu. Ili "
-"instalirajte Virtualbox, i pokrenite windows usporedno s Linux Mintom."
+"Instalirajte Wine i pokrenite Windows softver u Linux Mintu. Ili "
+"instalirajte Virtualbox i pokrenite Windowse unutar Linux Minta."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/windows.html:16

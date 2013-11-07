@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-05-04 16:14+0200\n"
-"PO-Revision-Date: 2012-06-26 06:04+0000\n"
-"Last-Translator: P. Suresh <Unknown>\n"
+"POT-Creation-Date: 2013-10-29 12:31+0000\n"
+"PO-Revision-Date: 2013-10-30 05:04+0000\n"
+"Last-Translator: சதீஸ்குமார் வரதராசு <Unknown>\n"
 "Language-Team: Tamil <ta@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-05-04 16:22+0000\n"
-"X-Generator: Launchpad (build 16598)\n"
+"X-Launchpad-Export-Date: 2013-11-07 10:11+0000\n"
+"X-Generator: Launchpad (build 16820)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/chat.html:1
@@ -104,6 +104,10 @@ msgid ""
 "your audio CDs. Listen to podcasts and online radios. Discover new artists "
 "on Last.fm, the Internet Archive and the Amazon MP3 Store."
 msgstr ""
+"பான்ஷியுடன் உங்கள் இசையை அனுபவியுங்கள். உங்கள் எம்.பி.3 இயக்கி செருகுங்கள் "
+"அல்லது உங்கள் ஒலி குறுவட்டுகளிலிருந்து பாடல்களைப் பிரித்தெடுங்கள். வலையொலி "
+"மற்றும் இணைய வானொலிகளைக் கேளுங்கள். புதிய கலைஞர்களை Last.fm மிலோ இணையக் "
+"காப்பகத்திலோ மற்றும் அமேசான் எம்.பி.3 அங்காடியிலோ கண்டறியுங்கள்."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/music.html:16
@@ -118,16 +122,19 @@ msgstr "ஒலி கோடெக்குகள்"
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/office.html:1
 msgid "Be productive"
-msgstr ""
+msgstr "உற்பத்தி திறனோடிரு"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/office.html:8
 msgid ""
 "Use LibreOffice to create professional documents, spreadsheets and "
-"presentations that are fully compatible with Microsoft Office. Archive "
-"documents, emails, or web pages to PDF. Send and receive files with Giver on "
-"the local network. Share printers or access them remotely."
+"presentations that are fully compatible with Microsoft Office. Share "
+"printers or access them remotely."
 msgstr ""
+"மைக்ரோசாப்ட் அலுவலகத்துடன் முழுமையாக ஒத்தியங்கும் தொழில்முறை ஆவணங்கள், "
+"விரிதாள்கள் மற்றும்  விளக்கக்காட்சிகள் உருவாக்க லிப்ரே அலுவலகத்தைப் "
+"பயன்படுத்துங்கள். மேலும் இதன் மூலம் அச்சுப்பொறிகளை பகிரலாம் அல்லது "
+"தொலைவிலிருந்து அவற்றை அணுகலாம்."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:16
@@ -136,13 +143,13 @@ msgstr "லிபரேஆபீஸ்"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:20
-msgid "Giver"
-msgstr "கொடுப்பவர்"
+msgid "Microsoft Office Support"
+msgstr "மைக்ரோசாப்ட் அலுவலக ஆதரவு"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:24
-msgid "PDF Printer"
-msgstr "எஆகோ அச்சடிப்பான்"
+msgid "PDF Support"
+msgstr "பிடிஎஃப் ஆதரவு"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/photos.html:1
@@ -156,11 +163,15 @@ msgid ""
 "albums to CD, to the Web, or to online services such as Flickr or PicasaWeb "
 "to share them with friends and family."
 msgstr ""
+"gThumb அல்லது Picasa மூலம் உங்கள் புகைப்படங்களை ஒருங்கமைத்து, பகிர்ந்து "
+"மகிழுங்கள். உங்கள் ஆல்பங்களை, குருவட்டிலோ, இணையத்திலோ அல்லது இணைய சேவைகளான "
+"Flickr அல்லது PicasaWeb பொன்றவற்றின் மூலமோ, தங்கள் நண்பர்கள் மற்றும் "
+"குடும்பத்தாருடன் பகிருங்கள்."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/photos.html:16
 msgid "gThumb"
-msgstr ""
+msgstr "gThumb"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/software.html:1
@@ -173,6 +184,9 @@ msgid ""
 "Browse through 30,000 free applications from the Software Manager. Enjoy "
 "screenshots and user reviews. Install software with one click of the mouse."
 msgstr ""
+"மென்பொருள் மேலாளர் மூலம் 30,000 இலவச பயன்பாடுகளில் உலாவுங்கள். "
+"திரைக்காட்சிகள் மற்றும் பயனர் மதிப்புரைகளை அனுபவியுங்கள். சுட்டியின் ஒரு "
+"சொடுக்கில் மென்பொருளை நிறுவி மகிழுங்கள்."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/mint/slides/software.html:12
@@ -216,17 +230,22 @@ msgid ""
 "Receive fixes and security updates all in one place, for the entire system, "
 "including the software you install."
 msgstr ""
+"தங்கள் முழு கணினி மற்றும் நீங்கள் நிறுவிய மென்பொருள் உட்பட அனைத்திற்கும் ஒரே "
+"இடத்திலிருந்து திருத்தங்கள் மற்றும் பாதுகாப்பு புதுப்பித்தல்களைப் "
+"பெற்றிடுங்கள்."
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/video.html:1
 msgid "Watch videos and DVDs"
-msgstr ""
+msgstr "நிழற்படங்கள் மற்றும் டிவிடிகள் பார்க்க"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/video.html:8
 msgid ""
 "Insert a DVD and enjoy a movie. Watch high-definition videos with VLC."
 msgstr ""
+"ஒரு டிவிடி செருகி படத்தை அனுபவியுங்கள். வி.எல்.சி மூலம் உயர்-வரையறை "
+"நிழற்படங்களளைக் காணுங்கள்."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/video.html:16
@@ -236,12 +255,12 @@ msgstr "விஎல்சி"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/video.html:20
 msgid "Totem"
-msgstr ""
+msgstr "Totem"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/video.html:24
 msgid "Video codecs"
-msgstr ""
+msgstr "நிழற்படகோடெக்குகள்"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/web.html:1
@@ -254,6 +273,8 @@ msgid ""
 "Be fast and safe on the web with Mozilla Firefox. Enjoy Java, Flash and "
 "multimedia content."
 msgstr ""
+"Mozilla Firefox மூலம் இணையத்தில் வேகமாகவும் பாதுகாப்பாகவும் இருங்கள். ஜாவா, "
+"ஃப்ளாஷ் மற்றும் பல்லூடக உள்ளடக்கத்தை அனுபவியுங்கள்."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/web.html:16
@@ -263,7 +284,7 @@ msgstr "நெருப்புநரி"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/web.html:20
 msgid "Flash"
-msgstr ""
+msgstr "ஃப்ளாஷ்"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/web.html:24
@@ -281,11 +302,14 @@ msgid ""
 "Welcome and thank you for choosing Linux Mint. This slideshow will show you "
 "around while the system is being installed on your computer."
 msgstr ""
+"வரவேற்கிறோம் மெலும் லினக்ஸ் மின்ட் தேர்ந்தெடுத்தமைக்கு நன்றி.  அமைப்பு "
+"உங்கள் கணினியில் நிறுவப்படும்போதே இந்த சறுக்குக்காட்சி தங்களுக்கு சுற்றி "
+"காண்பிக்கும்."
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/windows.html:1
 msgid "Run Windows software"
-msgstr ""
+msgstr "விண்டோஸ் பயன்பாட்டை இயக்கு"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/windows.html:8
@@ -293,6 +317,8 @@ msgid ""
 "Install Wine and run Windows software in Linux Mint. Or install Virtualbox, "
 "and run Windows itself within Linux Mint."
 msgstr ""
+"Wine நிறுவி விண்டோஸ் பயன்பாடுகளை லினக்ஸ் மின்ட்டில் இயக்கலாம். அல்லது "
+"Virtualbox நிறுவி விண்டோஸ் இயங்குதளத்தையே லினக்ஸ் மின்ட்டில் இயக்கலாம்."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/windows.html:16

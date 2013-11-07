@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-05-04 16:14+0200\n"
-"PO-Revision-Date: 2012-10-06 06:53+0000\n"
+"POT-Creation-Date: 2013-10-29 12:31+0000\n"
+"PO-Revision-Date: 2013-11-03 04:09+0000\n"
 "Last-Translator: Tada Saki <a4e484b@hotmail.com>\n"
 "Language-Team: Vietnamese <vi@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-05-04 16:22+0000\n"
-"X-Generator: Launchpad (build 16598)\n"
+"X-Launchpad-Export-Date: 2013-11-07 10:11+0000\n"
+"X-Generator: Launchpad (build 16820)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/chat.html:1
@@ -127,14 +127,12 @@ msgstr "Luôn sáng tạo và năng động"
 #: slideshows/mint/slides/office.html:8
 msgid ""
 "Use LibreOffice to create professional documents, spreadsheets and "
-"presentations that are fully compatible with Microsoft Office. Archive "
-"documents, emails, or web pages to PDF. Send and receive files with Giver on "
-"the local network. Share printers or access them remotely."
+"presentations that are fully compatible with Microsoft Office. Share "
+"printers or access them remotely."
 msgstr ""
-"Dùng LibreOffice tạo tài liệu, bảng tính, trình diễn chuyên nghiệp hoàn toàn "
-"tương thích với Microsoft Office. Lưu trữ tài liệu, điện thư hoặc trang web "
-"thành PDF. Gửi và nhận tập tin trong mạng nội bộ với Giver. Chia sẻ và truy "
-"cập máy in từ xa."
+"Dùng LibreOffice để tạo tài liệu, bảng tính và trình diễn chuyên nghiệp hoàn "
+"toàn tương thích với Microsoft Office. Chia sẻ máy tin hoặc truy cập chúng "
+"từ xa."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:16
@@ -143,13 +141,13 @@ msgstr "LibreOffice"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:20
-msgid "Giver"
-msgstr "Giver"
+msgid "Microsoft Office Support"
+msgstr "Hỗ trợ Microsoft Office"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:24
-msgid "PDF Printer"
-msgstr "Máy in PDF"
+msgid "PDF Support"
+msgstr "Hỗ trợ PDF"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/photos.html:1

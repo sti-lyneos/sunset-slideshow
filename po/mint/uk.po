@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-05-04 16:14+0200\n"
-"PO-Revision-Date: 2011-05-16 15:24+0000\n"
-"Last-Translator: Sergiy Gavrylov <sergiovana@bigmir.net>\n"
+"POT-Creation-Date: 2013-10-29 12:31+0000\n"
+"PO-Revision-Date: 2013-10-29 18:14+0000\n"
+"Last-Translator: Stuartlittle1970@gmail.com <Stuartlittle1970@gmail.com>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-05-04 16:22+0000\n"
-"X-Generator: Launchpad (build 16598)\n"
+"X-Launchpad-Export-Date: 2013-11-07 10:11+0000\n"
+"X-Generator: Launchpad (build 16820)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/chat.html:1
@@ -128,16 +128,12 @@ msgstr "Станьте продуктивним"
 #: slideshows/mint/slides/office.html:8
 msgid ""
 "Use LibreOffice to create professional documents, spreadsheets and "
-"presentations that are fully compatible with Microsoft Office. Archive "
-"documents, emails, or web pages to PDF. Send and receive files with Giver on "
-"the local network. Share printers or access them remotely."
+"presentations that are fully compatible with Microsoft Office. Share "
+"printers or access them remotely."
 msgstr ""
-"Використовуйте LibreOffice для створення професійних документів, електронних "
-"таблиць та презентацій, що повністю сумісні з форматами Microsoft Office. "
-"Архівуйте документи, електронні листи або веб-сторінки у формат PDF. "
-"Надсилайте та отримуйте файли у локальній мережі за допомогою програми "
-"Giver. Спільно використовуйте принтери або отримуйте віддалений доступ до "
-"них."
+"Використовуйте LibreOffice для створення професійно оформлених документів, "
+"електронних таблиць і презентацій, які повністю сумісні з Microsoft Office. "
+"Спільне використання принтерів або віддалений до них доступ."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:16
@@ -146,13 +142,13 @@ msgstr "LibreOffice"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:20
-msgid "Giver"
-msgstr "Giver"
+msgid "Microsoft Office Support"
+msgstr "Підтримка Microsoft Office"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:24
-msgid "PDF Printer"
-msgstr "Друк документів PDF"
+msgid "PDF Support"
+msgstr "Підтримка PDF"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/photos.html:1

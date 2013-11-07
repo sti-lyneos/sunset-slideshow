@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-05-04 16:14+0200\n"
+"POT-Creation-Date: 2013-10-29 12:31+0000\n"
 "PO-Revision-Date: 2012-04-28 18:59+0000\n"
 "Last-Translator: Praveen Illa <mail2ipn@gmail.com>\n"
 "Language-Team: Telugu <indlinux-telugu@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-05-04 16:22+0000\n"
-"X-Generator: Launchpad (build 16598)\n"
+"X-Launchpad-Export-Date: 2013-11-07 10:11+0000\n"
+"X-Generator: Launchpad (build 16820)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/chat.html:1
@@ -128,14 +128,9 @@ msgstr "ఉత్పాదనం"
 #: slideshows/mint/slides/office.html:8
 msgid ""
 "Use LibreOffice to create professional documents, spreadsheets and "
-"presentations that are fully compatible with Microsoft Office. Archive "
-"documents, emails, or web pages to PDF. Send and receive files with Giver on "
-"the local network. Share printers or access them remotely."
+"presentations that are fully compatible with Microsoft Office. Share "
+"printers or access them remotely."
 msgstr ""
-"లిబ్రెఆఫీసును వాడి మైక్రోసాఫ్ట్ ఆఫీసుతో అనుకూలమైన నాణ్యమైన పత్రాలను, "
-"స్ప్రెడ్‌షీట్లను మరియు సమర్పణలను సృష్టించండి. పత్రాలు, ఈమెయిల్లు, లేదా జాల "
-"పేజీలను PDFకు సంగ్రహించండి. గివర్‌తో స్థానిక నెట్‌వర్కు నందు ఫైళ్ళను పంపండి "
-"మరియు స్వీకరించండి. ముద్రకాలను పంచుకోండి లేదా వాటిని సుదూరం నుండి వాడుకోండి."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:16
@@ -144,13 +139,13 @@ msgstr "లిబ్రేఆఫీస్"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:20
-msgid "Giver"
-msgstr "గివర్"
+msgid "Microsoft Office Support"
+msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:24
-msgid "PDF Printer"
-msgstr "PDF ముద్రకం"
+msgid "PDF Support"
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/photos.html:1

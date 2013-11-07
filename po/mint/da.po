@@ -7,20 +7,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-05-04 16:14+0200\n"
-"PO-Revision-Date: 2011-05-06 13:14+0000\n"
-"Last-Translator: Jakob Moss <Unknown>\n"
+"POT-Creation-Date: 2013-10-29 12:31+0000\n"
+"PO-Revision-Date: 2013-10-29 17:00+0000\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
 "Language-Team: Danish <da@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-05-04 16:22+0000\n"
-"X-Generator: Launchpad (build 16598)\n"
+"X-Launchpad-Export-Date: 2013-11-07 10:11+0000\n"
+"X-Generator: Launchpad (build 16820)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/chat.html:1
 msgid "Stay connected"
-msgstr "Forbliv forbundet"
+msgstr "Hold forbindelsen"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/chat.html:8
@@ -39,7 +39,7 @@ msgstr ""
 #: slideshows/mint/slides/office.html:12 slideshows/mint/slides/photos.html:12
 #: slideshows/mint/slides/video.html:12 slideshows/mint/slides/web.html:12
 msgid "Included software"
-msgstr "Inkluderede programmer"
+msgstr "Medfølgende programmer"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/chat.html:16
@@ -68,8 +68,8 @@ msgid ""
 "large variety of themes, icons and backgrounds. Linux Mint is open and easy "
 "to customize."
 msgstr ""
-"Lad som om du er hjemme, og modificér alle aspekter af skrivebordet. Vælg "
-"mellem et bredt udvalg af temaer, ikoner og baggrunde. Linux Mint er åbent, "
+"Modificér alle aspekter af skrivebordet efter dine egne præferencer. Vælg "
+"mellem et bredt udvalg af temaer, ikoner og baggrunde. Linux Mint er åbent "
 "og nemt at indstille."
 
 #. type: Content of: <div><h1>
@@ -86,16 +86,15 @@ msgid ""
 "tutorials, active forums and chat rooms and one of the most dynamic "
 "communities on the Internet."
 msgstr ""
-"Hvis du er nysgerrig, eller har et problem, så bare spørg. Linux Mint er et "
-"af de mest brugte styresystemer i verden (i øjeblikket nummer fire på "
-"listen). Det kommer med en vejledning til brugere, en hjemmeside, en samling "
-"guider, aktive fora og chatrum, og et af de mest dynamiske fællesskaber på "
-"internettet."
+"Hvis du er nysgerrig, eller har et problem, så bare spørg. Linux Mint er det "
+"fjerde mest udbredte styresystem. Der er en vejledning til brugere, en "
+"hjemmeside for brugere, en samling guider, aktive fora og chatrum og et af "
+"de mest dynamiske fællesskaber på internettet."
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/music.html:1
 msgid "Listen to music and CDs"
-msgstr "Hør musik og CD'er"
+msgstr "Lyt til musik og CD'er"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/music.html:8
@@ -104,10 +103,9 @@ msgid ""
 "your audio CDs. Listen to podcasts and online radios. Discover new artists "
 "on Last.fm, the Internet Archive and the Amazon MP3 Store."
 msgstr ""
-"Nyd din musik med Banshee. Sæt din MP3-afspiller i, eller overfør sange fra "
-"dine lyd-CD'er. Lyt til podcasts og online radiostationer. Opdag nye "
-"kunstnere på blandt andet Last.fm, det store Internet Archive, samt Amazon "
-"MP3 Store."
+"Nyd din musik med Banshee. Sæt din MP3-afspiller i eller overfør sange fra "
+"dine lyd-CD'er. Lyt til podcasts og radiostationer på internettet. Opdag nye "
+"kunstnere på blandt andet Last.fm, Internet Archive og Amazon MP3 Store."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/music.html:16
@@ -117,7 +115,7 @@ msgstr "Banshee"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/music.html:20
 msgid "Audio codecs"
-msgstr "Lydkodninger"
+msgstr "Lydformater"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/office.html:1
@@ -128,14 +126,12 @@ msgstr "Vær produktiv"
 #: slideshows/mint/slides/office.html:8
 msgid ""
 "Use LibreOffice to create professional documents, spreadsheets and "
-"presentations that are fully compatible with Microsoft Office. Archive "
-"documents, emails, or web pages to PDF. Send and receive files with Giver on "
-"the local network. Share printers or access them remotely."
+"presentations that are fully compatible with Microsoft Office. Share "
+"printers or access them remotely."
 msgstr ""
-"Brug LibreOffice til at skabe professionelle dokumenter, regneark og "
-"præsentationer, der er fuldt kompatible med Microsoft Office. Lav "
-"dokumenter, emails eller hjemmesider til PDF. Send og modtag filer med Giver "
-"på det lokale netværk. Del printere eller tilgå dem andetsteds."
+"Anvend LibreOffice til at fremstille professionelt udseende dokumenter, "
+"regneark og præsentationer, som er kompatible med Microsoft Office. Del "
+"printere eller print via fjernadgang."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:16
@@ -144,18 +140,18 @@ msgstr "LibreOffice"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:20
-msgid "Giver"
-msgstr "Giver"
+msgid "Microsoft Office Support"
+msgstr "Brugerhjælp til MicroSoft Office"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:24
-msgid "PDF Printer"
-msgstr "PDF-printer"
+msgid "PDF Support"
+msgstr "Brugerhjælp til PDF"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/photos.html:1
 msgid "Manage your photos"
-msgstr "Håndter dine billeder"
+msgstr "Håndtér dine billeder"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/photos.html:8
@@ -164,9 +160,9 @@ msgid ""
 "albums to CD, to the Web, or to online services such as Flickr or PicasaWeb "
 "to share them with friends and family."
 msgstr ""
-"Organiser, nyd og del dine billeder med gThumb eller Picasa. Exporter dine "
-"album til CD, til internettet eller onlinetjenester som Flickr eller "
-"PicasaWeb, for at dele dem med venner og familie."
+"Organiser, nyd og del dine billeder med gThumb eller Picasa. Exportér dine "
+"album til CD eller onlinetjenester som Flickr eller PicasaWeb for at dele "
+"dem med venner og familie."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/photos.html:16
@@ -230,7 +226,7 @@ msgid ""
 "including the software you install."
 msgstr ""
 "Modtag rettelser og sikkerhedsopdateringer til hele systemet og alle "
-"programmer du installerer, det samme sted."
+"programmer, du installerer, fra det samme sted."
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/video.html:1
@@ -256,7 +252,7 @@ msgstr "Totem"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/video.html:24
 msgid "Video codecs"
-msgstr "Videokodninger"
+msgstr "Videoformater"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/web.html:1

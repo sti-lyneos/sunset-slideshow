@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-05-04 16:14+0200\n"
+"POT-Creation-Date: 2013-10-29 12:31+0000\n"
 "PO-Revision-Date: 2012-05-26 21:05+0000\n"
 "Last-Translator: Mikhail_SaTuRn <mikhail_saturn@tut.by>\n"
 "Language-Team: Belarusian <be@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-05-04 16:22+0000\n"
-"X-Generator: Launchpad (build 16598)\n"
+"X-Launchpad-Export-Date: 2013-11-07 10:11+0000\n"
+"X-Generator: Launchpad (build 16820)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/chat.html:1
@@ -128,15 +128,9 @@ msgstr "Будзьце прадуктыўнымі"
 #: slideshows/mint/slides/office.html:8
 msgid ""
 "Use LibreOffice to create professional documents, spreadsheets and "
-"presentations that are fully compatible with Microsoft Office. Archive "
-"documents, emails, or web pages to PDF. Send and receive files with Giver on "
-"the local network. Share printers or access them remotely."
+"presentations that are fully compatible with Microsoft Office. Share "
+"printers or access them remotely."
 msgstr ""
-"Выкарыстоўвайце LibreOffice для стварэння прафесійных дакументаў, "
-"электронных табліц і прэзентацый, цалкам сумяшчальных з Microsoft Office. "
-"Канвертуйце дакументы, электронную пошту і вэб старонкі ў фармат PDF. "
-"Адпраўляйце і атрымлівайце файлы па лакальнай сеткі з дапамогай Giver. "
-"Дзяліцеся або атрымлівайце выдалены доступ да друкарак."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:16
@@ -145,13 +139,13 @@ msgstr "LibreOffice"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:20
-msgid "Giver"
-msgstr "Giver"
+msgid "Microsoft Office Support"
+msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:24
-msgid "PDF Printer"
-msgstr "PDF Printer"
+msgid "PDF Support"
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/photos.html:1

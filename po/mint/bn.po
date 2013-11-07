@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2011-05-04 16:14+0200\n"
+"POT-Creation-Date: 2013-10-29 12:31+0000\n"
 "PO-Revision-Date: 2011-05-13 11:42+0000\n"
 "Last-Translator: Ayon Khan <ayonkhan@gmail.com>\n"
 "Language-Team: Bengali <bn@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-05-04 16:22+0000\n"
-"X-Generator: Launchpad (build 16598)\n"
+"X-Launchpad-Export-Date: 2013-11-07 10:11+0000\n"
+"X-Generator: Launchpad (build 16820)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/chat.html:1
@@ -128,15 +128,9 @@ msgstr "সৃজনশীল হোন"
 #: slideshows/mint/slides/office.html:8
 msgid ""
 "Use LibreOffice to create professional documents, spreadsheets and "
-"presentations that are fully compatible with Microsoft Office. Archive "
-"documents, emails, or web pages to PDF. Send and receive files with Giver on "
-"the local network. Share printers or access them remotely."
+"presentations that are fully compatible with Microsoft Office. Share "
+"printers or access them remotely."
 msgstr ""
-"লিব্রেঅফিস ব্যবহার করে প্রোফেশনাল ডকিউমেন্ট, স্প্রেডশিট এবং প্রেসেন্টেশন "
-"তৈরী করুন যেগুলো মাইক্রোসফট অফিসের সাথে সম্পূর্ণ সামঞ্জস্যপূর্ণ। "
-"ডকিউমেন্ট, ইমেইল অথবা ওয়ে পেইজসমূহকে পিডিএফে আকারে সংরক্ষণ করুন। গিভারের "
-"মাধ্যমে লোকাল নেটওয়ার্কের মধ্যে ফাইলসমূহ আদান-প্রদান করুন। প্রিন্টার শেয়ার "
-"করুন কিংবা দূর থেকে সেটি নিয়ন্ত্রণ করুন।"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:16
@@ -145,13 +139,13 @@ msgstr "লিব্রেঅফিস"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:20
-msgid "Giver"
-msgstr "গিভার"
+msgid "Microsoft Office Support"
+msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:24
-msgid "PDF Printer"
-msgstr "পিডিএফ প্রিন্টার"
+msgid "PDF Support"
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/photos.html:1

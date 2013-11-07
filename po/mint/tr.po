@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Slideshow Mint\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-05-04 16:14+0200\n"
-"PO-Revision-Date: 2011-07-14 11:58+0000\n"
-"Last-Translator: Yiğit Ateş <Unknown>\n"
+"POT-Creation-Date: 2013-10-29 12:31+0000\n"
+"PO-Revision-Date: 2013-10-29 16:56+0000\n"
+"Last-Translator: kelebek333 <Unknown>\n"
 "Language-Team: Linux Mint Türkiye Çeviri Tayfası <hsngrms@ovi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-05-04 16:22+0000\n"
-"X-Generator: Launchpad (build 16598)\n"
+"X-Launchpad-Export-Date: 2013-11-07 10:11+0000\n"
+"X-Generator: Launchpad (build 16820)\n"
 "X-Poedit-Country: TURKEY\n"
 "Language: \n"
 
@@ -125,14 +125,12 @@ msgstr "Yaratıcı olun"
 #: slideshows/mint/slides/office.html:8
 msgid ""
 "Use LibreOffice to create professional documents, spreadsheets and "
-"presentations that are fully compatible with Microsoft Office. Archive "
-"documents, emails, or web pages to PDF. Send and receive files with Giver on "
-"the local network. Share printers or access them remotely."
+"presentations that are fully compatible with Microsoft Office. Share "
+"printers or access them remotely."
 msgstr ""
-"LibreOffice kullanarak, Microsoft Office ile tamamen uyumlu profesyonel "
-"belgeler, hesap tabloları ve sunumlar oluşturun. Belgeleri, e-postaları veya "
-"web sayfalarını PDF olarak arşivleyin. Giver ile yerel ağ üzerinden dosya "
-"alıp gönderin. Yazıcıları paylaşın veya onlara uzaktan erişin."
+"Microsoft Ofis ile tam uyumlu profesyonel belgeler, tablolar ve sunumlar "
+"üretmek için  LibreOffice kullanın. Yazıcıları paylaşabilir ve bunlara "
+"uzaktan erişebilirsiniz."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:16
@@ -141,13 +139,13 @@ msgstr "LibreOffice"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:20
-msgid "Giver"
-msgstr "Giver"
+msgid "Microsoft Office Support"
+msgstr "Microsoft Ofis Desteği"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:24
-msgid "PDF Printer"
-msgstr "PDF Yazıcı"
+msgid "PDF Support"
+msgstr "PDF Desteği"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/photos.html:1
