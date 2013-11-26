@@ -9,14 +9,14 @@ msgstr ""
 "Project-Id-Version: slideshow-mint_slideshow-mint-is\n"
 "Report-Msgid-Bugs-To: FULL NAME <translation-team-is@lists.sourceforge.net>\n"
 "POT-Creation-Date: 2013-10-29 12:31+0000\n"
-"PO-Revision-Date: 2011-05-08 12:26+0000\n"
-"Last-Translator: Sveinn í Felli <sveinki@nett.is>\n"
+"PO-Revision-Date: 2013-11-20 09:38+0000\n"
+"Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
 "Language-Team: Icelandic <translation-team-is@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-11-07 10:11+0000\n"
-"X-Generator: Launchpad (build 16820)\n"
+"X-Launchpad-Export-Date: 2013-11-26 11:38+0000\n"
+"X-Generator: Launchpad (build 16840)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/chat.html:1
@@ -131,6 +131,9 @@ msgid ""
 "presentations that are fully compatible with Microsoft Office. Share "
 "printers or access them remotely."
 msgstr ""
+"Notaðu LibreOffice til að búa til fagmannleg skjöl, töflureikna og kynningar "
+"sem eru vel samhæfð við gögn í Microsoft Office. Samnýttu prentara eða "
+"fjartengdu þá."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:16
@@ -140,12 +143,12 @@ msgstr "LibreOffice"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:20
 msgid "Microsoft Office Support"
-msgstr ""
+msgstr "Stuðningur við Microsoft Office"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:24
 msgid "PDF Support"
-msgstr ""
+msgstr "Stuðningur við PDF"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/photos.html:1
