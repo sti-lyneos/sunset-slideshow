@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-10-29 12:31+0000\n"
-"PO-Revision-Date: 2013-11-09 21:21+0000\n"
-"Last-Translator: Hubert Garus <hubert.gs@rambler.ru>\n"
+"PO-Revision-Date: 2014-02-04 06:41+0000\n"
+"Last-Translator: Piotr Strębski <strebski@o2.pl>\n"
 "Language-Team: Polish <pl@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-11-26 11:38+0000\n"
-"X-Generator: Launchpad (build 16840)\n"
+"X-Launchpad-Export-Date: 2014-05-03 20:44+0000\n"
+"X-Generator: Launchpad (build 16985)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/chat.html:1
@@ -86,7 +86,7 @@ msgid ""
 "tutorials, active forums and chat rooms and one of the most dynamic "
 "communities on the Internet."
 msgstr ""
-"Jeśli coś Cię ciekawi lub napotkano jakiś problem, po prostu zapytaj w "
+"Jeśli coś Cię ciekawi lub napotkasz jakiś problem, po prostu zapytaj w "
 "sieci. Linux Mint jest czwartym najczęściej używanym systemem operacyjnym na "
 "świecie. Posiada własny podręcznik użytkownika, stronę społeczności, "
 "kolekcję przewodników, aktywne fora dyskusyjne i pokoje rozmów oraz jedną z "
@@ -131,9 +131,9 @@ msgid ""
 "presentations that are fully compatible with Microsoft Office. Share "
 "printers or access them remotely."
 msgstr ""
-"Użyj LibreOffice, aby tworzyć profesjonalne dokumenty, arkusze kalkulacyjne "
-"i prezentacje, które są w pełni kompatybilne z Microsoft Office. Udostępnij "
-"drukarki lub uzyskaj do nich zdalnie dostęp."
+"Używaj LibreOffice, aby tworzyć profesjonalne dokumenty, arkusze "
+"kalkulacyjne i prezentacje, które są w pełni kompatybilne z Microsoft "
+"Office. Udostępniaj drukarki lub uzyskuj do nich zdalny dostęp."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:16
@@ -143,12 +143,12 @@ msgstr "LibreOffice"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:20
 msgid "Microsoft Office Support"
-msgstr "Pomoc techniczna Microsoft Office"
+msgstr "Wsparcie Microsoft Office"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:24
 msgid "PDF Support"
-msgstr "Pomoc techniczna PDF"
+msgstr "Wsparcie PDF"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/photos.html:1

@@ -1,21 +1,22 @@
-# Hungarian translation for linuxmint
-# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
-# This file is distributed under the same license as the linuxmint package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+# Hungarian translation of slideshow-mint.
+# Copyright (C) 2013 Free Software Foundation, Inc.
+# This file is distributed under the same license as the slideshow-mint package.
+# KAMI <kami911@gmail.com>, 2013-2014.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: linuxmint\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"Project-Id-Version: slideshow-mint\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-29 12:31+0000\n"
-"PO-Revision-Date: 2013-10-30 10:05+0000\n"
-"Last-Translator: balint355 <mbalint314@gmail.com>\n"
-"Language-Team: Hungarian <hu@li.org>\n"
+"PO-Revision-Date: 2013-12-12 23:39+0000\n"
+"Last-Translator: Frank Barnores <Unknown>\n"
+"Language-Team: Hungarian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-11-26 11:38+0000\n"
-"X-Generator: Launchpad (build 16840)\n"
+"X-Launchpad-Export-Date: 2014-05-03 20:44+0000\n"
+"X-Generator: Launchpad (build 16985)\n"
+"Language: hu\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/chat.html:1
@@ -29,10 +30,10 @@ msgid ""
 "favorite social networks. Linux Mint provides all you need to interact with "
 "Twitter, Facebook, MSN, ICQ, GoogleTalk, AIM, Yahoo and many other networks."
 msgstr ""
-"Tartsa a kapcsolatot barátaival, ismerőseivel elektronikus levélben, "
-"üzenetküldőkkel vagy a kedvenc közösségi hálózataival. A Linux Mint "
-"segítségével ezt könnyedén megteheti Twitter, Facebook, MSN, ICQ, Google "
-"Talk, AIM, Yahoo hálózatokon, és sok más hálózaton is."
+"Tartsa a kapcsolatot barátaival, ismerőseivel e-mailben, üzenetküldőkkel "
+"vagy kedvenc közösségi hálózatain. A Linux Mint segítségével ezt könnyedén "
+"megteheti Twitter, Facebook, MSN, ICQ, Google Talk, AIM, Yahoo és még sok "
+"más hálózaton is."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/mint/slides/chat.html:12 slideshows/mint/slides/music.html:12
@@ -59,7 +60,7 @@ msgstr "Xchat (IRC kliens)"
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/customize.html:1
 msgid "Customize your desktop"
-msgstr "Változtassa át munkaasztalát"
+msgstr "Változtassa meg munkaasztalát"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/customize.html:8
@@ -68,9 +69,9 @@ msgid ""
 "large variety of themes, icons and backgrounds. Linux Mint is open and easy "
 "to customize."
 msgstr ""
-"Érezze magát otthon, változtassa meg munkaasztalát kedvére. Válasszon számos "
-"témából, háttérből és ikonkészletből. A Linux Mint nyílt, könnyen testre "
-"szabható."
+"Érezze magát otthon és változtassa meg munkaasztalát tetszése szerint. "
+"Válasszon számos témából, ikonból és háttérképből. A Linux Mint nyílt és "
+"könnyen testre szabható."
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/help.html:1
@@ -86,16 +87,16 @@ msgid ""
 "tutorials, active forums and chat rooms and one of the most dynamic "
 "communities on the Internet."
 msgstr ""
-"Ha valamire kíváncsi, vagy bármilyen problémába ütközik, egyszerűen "
-"kérdezzen körbe. A Linux Mint a negyedik legszélesebb körben elterjedt "
-"operációs rendszer a világon. A terjesztés része egy felhasználói útmutató, "
-"és elérhető egy közösségi weboldal számtalan oktató leírással, aktív "
-"fórummal, chat szobákkal, és egy dinamikusan fejlődő közösséggel."
+"Ha kíváncsi valamire vagy bármilyen problémába ütközik, egyszerűen kérdezzen "
+"körbe. A Linux Mint a negyedik legszélesebb körben elterjedt operációs "
+"rendszer a világon. A terjesztés része egy felhasználói útmutató, és "
+"elérhető egy közösségi weboldal számtalan útmutatóval, aktív fórummal, "
+"csevegőszobákkal és egy dinamikusan fejlődő közösséggel."
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/music.html:1
 msgid "Listen to music and CDs"
-msgstr "Hallgasson zenét, audio CD-t"
+msgstr "Hallgasson zenét és CD-t"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/music.html:8
@@ -162,10 +163,10 @@ msgid ""
 "albums to CD, to the Web, or to online services such as Flickr or PicasaWeb "
 "to share them with friends and family."
 msgstr ""
-"Szervezze, nézze és ossza meg fényképeit gThumb vagy a Picasa segítségével. "
-"Exportálja albumait CD-re, a webre, vagy az olyan online szolgáltatások "
-"egyikére, mint a Flickr vagy a Picasa, hogy megoszthassa barátaival és "
-"családjával."
+"Rendszerezze, élvezze és ossza meg fényképeit a gThumb vagy a Picasa "
+"segítségével. Exportálja albumait CD-re, a webre, vagy az olyan online "
+"szolgáltatások egyikére, mint a Flickr vagy a Picasa, hogy megoszthassa "
+"barátaival és családjával."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/photos.html:16
@@ -184,7 +185,7 @@ msgid ""
 "screenshots and user reviews. Install software with one click of the mouse."
 msgstr ""
 "Böngésszen 30 000 szabad alkalmazás között a Szoftverkezelő segítségével. "
-"Ebben képernyőképek és más felhasználók véleménye is segítik. Telepítsen "
+"Ebben képernyőképek és más felhasználók véleményei is segítik. Telepítsen "
 "szoftvereket egy egérkattintással."
 
 #. type: Content of: <div><div><div><h2>
@@ -196,7 +197,7 @@ msgstr "Népszerű szoftverek"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/software.html:16
 msgid "Filezilla"
-msgstr "Filezilla (ftp kliens)"
+msgstr "Filezilla (FTP kliens)"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/software.html:20
@@ -211,7 +212,7 @@ msgstr "Audacity (hangszerkesztő)"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/software.html:28
 msgid "Picasa"
-msgstr "Picasa (épkezelő)"
+msgstr "Picasa (képkezelő)"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/software.html:32
@@ -229,21 +230,21 @@ msgid ""
 "Receive fixes and security updates all in one place, for the entire system, "
 "including the software you install."
 msgstr ""
-"A teljes rendszerhez és a telepített szoftverekhez is fogadhat javításokat, "
-"frissítéseket."
+"A teljes rendszerhez és a telepített szoftverekhez is fogadhat javításokat "
+"és biztonsági frissítéseket."
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/video.html:1
 msgid "Watch videos and DVDs"
-msgstr "Nézzen videókat és DVD filmeket"
+msgstr "Nézzen videókat és DVD-ket"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/video.html:8
 msgid ""
 "Insert a DVD and enjoy a movie. Watch high-definition videos with VLC."
 msgstr ""
-"Csak tegye be a DVD-t és nézheti a filmet. A VLC-vel HD minőségű videókat is "
-"nézni tud."
+"Csak tegye be a DVD-t és élvezze a filmet. A VLC-vel HD minőségű videókat is "
+"nézhet."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/video.html:16
@@ -263,7 +264,7 @@ msgstr "Videó kodekek"
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/web.html:1
 msgid "Browse the web"
-msgstr "Böngéssze az internetet"
+msgstr "Böngésszen az interneten"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/web.html:8
@@ -292,7 +293,7 @@ msgstr "Java"
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/welcome.html:1
 msgid "Welcome to Linux Mint"
-msgstr "Üdvözöljük a Linux Mintben!"
+msgstr "Üdvözöljük a Linux Mint-ben!"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/welcome.html:8
@@ -306,7 +307,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/windows.html:1
 msgid "Run Windows software"
-msgstr "Futtason Windows szoftvereket"
+msgstr "Futtasson Windows szoftvereket"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/windows.html:8
@@ -314,9 +315,8 @@ msgid ""
 "Install Wine and run Windows software in Linux Mint. Or install Virtualbox, "
 "and run Windows itself within Linux Mint."
 msgstr ""
-"Telepítse a Wine szoftvert és futtasson segítségével Windows szoftvereket. "
-"Telepítse a Virtualbox-ot és futtason akár egy teljes Windows-t a Linux Mint-"
-"ben."
+"Telepítse a Wine-t és futtasson segítségével Windows szoftvereket. Telepítse "
+"a Virtualbox-ot és futtasson Windows-t a Linux Mint-en belül."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/windows.html:16

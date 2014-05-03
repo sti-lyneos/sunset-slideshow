@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-10-29 12:31+0000\n"
-"PO-Revision-Date: 2013-11-17 16:51+0000\n"
-"Last-Translator: StratosJL <stratos@laspas.gr>\n"
+"PO-Revision-Date: 2014-03-13 18:13+0000\n"
+"Last-Translator: Tlalok <danoyster@gmail.com>\n"
 "Language-Team: Greek <el@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-11-26 11:38+0000\n"
-"X-Generator: Launchpad (build 16840)\n"
+"X-Launchpad-Export-Date: 2014-05-03 20:44+0000\n"
+"X-Generator: Launchpad (build 16985)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/chat.html:1
@@ -30,16 +30,16 @@ msgid ""
 "Twitter, Facebook, MSN, ICQ, GoogleTalk, AIM, Yahoo and many other networks."
 msgstr ""
 "Κρατήστε επαφή με τους φίλους και τους γνωστούς σας, μέσω e-mail, messenger "
-"ή μέσω του κοινωνικού δικτύου που προτιμάτε. Το Linux Mint σας παρέχει όλα "
+"ή μέσω του αγαπημένου σας κοινωνικού δικτύου. Το Linux Mint σας παρέχει όλα "
 "όσα χρειάζεστε για να επικοινωνείτε μέσω Twitter, Facebook, MSN, ICQ, "
-"GoogleTalk, AIM, Yahoo και πολλών άλλων δικτύων."
+"GoogleTalk, AIM, Yahoo, καθώς  και σε πολλά άλλα δικτύα."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/mint/slides/chat.html:12 slideshows/mint/slides/music.html:12
 #: slideshows/mint/slides/office.html:12 slideshows/mint/slides/photos.html:12
 #: slideshows/mint/slides/video.html:12 slideshows/mint/slides/web.html:12
 msgid "Included software"
-msgstr "Λογισμικό που περιλαμβάνεται"
+msgstr "Προγράμματα που περιλαμβάνωνται"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/chat.html:16
@@ -68,15 +68,15 @@ msgid ""
 "large variety of themes, icons and backgrounds. Linux Mint is open and easy "
 "to customize."
 msgstr ""
-"Βολευτείτε και τροποποιήστε κάθε πλευρά της επιφάνειας εργασίας σας. "
-"Διαλέξτε από μια μεγάλη ποικιλία θεμάτων, εικονιδίων και φόντων για την "
-"επιφάνεια εργασίας. Το Linux Mint είναι πάντα ανοιχτό και εύκολο στην "
-"προσαρμογή."
+"Αισθανθείτε σαν στο σπίτι σας και τροποποιήστε κάθε λεπτομέρεια της "
+"επιφάνειας εργασίας σας. Επιλέξτε από μια μεγάλη ποικιλία θεμάτων, "
+"εικονιδίων και εικόνων φόντου. Το Linux Mint είναι πάντα ανοιχτό και εύκολο "
+"να προσαρμοστεί στις ανάγκες σας."
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/help.html:1
 msgid "Find help"
-msgstr "Βρείτε βοήθεια"
+msgstr "Βρείτε εύκολα βοήθεια"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/help.html:8
@@ -88,10 +88,10 @@ msgid ""
 "communities on the Internet."
 msgstr ""
 "Αν έχετε κάποια απορία ή αν αντιμετωπίζετε κάποιο πρόβλημα, απλά ρωτήστε. Το "
-"Linux Mint είναι το 4ο πιο διαδεδομένο λειτουργικό σύστημα στον κόσμο. "
+"Linux Mint είναι μέσα στα 4 πιο διαδεδομένα λειτουργικά σύστημα στον κόσμο. "
 "Έρχεται με οδηγίες χρήσης, ιστοσελίδα της κοινότητας των χρηστών, μια "
-"συλλογή εγχειριδίων, ενεργά φόρουμ και chat rooms και μια από τις πιο "
-"δυναμικές κοινότητες στο διαδίκτυο."
+"συλλογή εγχειριδίων, ενεργά φόρουμ και chat rooms και έχει μια από τις πιο "
+"δυναμικές κοινότητες χρηστών στο διαδίκτυο."
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/music.html:1
@@ -113,7 +113,7 @@ msgstr ""
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/music.html:16
 msgid "Banshee"
-msgstr "Banshee"
+msgstr "Αναπαραγωγέας ήχου (Banshee)"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/music.html:20
@@ -149,7 +149,7 @@ msgstr "Υποστήριξη Microsoft Office"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:24
 msgid "PDF Support"
-msgstr "Υποστήριξη PDF"
+msgstr "Υποστήριξη αρχείων PDF"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/photos.html:1
@@ -176,7 +176,7 @@ msgstr "gThumb"
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/software.html:1
 msgid "Install software"
-msgstr "Εγκαταστήστε λογισμικό"
+msgstr "Εγκαταστήστε εύκολα λογισμικό"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/software.html:8
@@ -202,7 +202,7 @@ msgstr "Filezilla"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/software.html:20
 msgid "Skype"
-msgstr "Skype"
+msgstr "Άμεσα μηνύματα Skype"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/software.html:24

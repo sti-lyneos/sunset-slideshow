@@ -8,19 +8,19 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-10-29 12:31+0000\n"
-"PO-Revision-Date: 2013-11-01 21:20+0000\n"
-"Last-Translator: lyyser <Unknown>\n"
+"PO-Revision-Date: 2014-04-30 09:00+0000\n"
+"Last-Translator: Kristjan Vool <tictac7x@gmail.com>\n"
 "Language-Team: Estonian <et@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-11-26 11:38+0000\n"
-"X-Generator: Launchpad (build 16840)\n"
+"X-Launchpad-Export-Date: 2014-05-03 20:44+0000\n"
+"X-Generator: Launchpad (build 16985)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/chat.html:1
 msgid "Stay connected"
-msgstr "Ühenduses püsimine"
+msgstr "Hoia kontakti"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/chat.html:8
@@ -29,10 +29,10 @@ msgid ""
 "favorite social networks. Linux Mint provides all you need to interact with "
 "Twitter, Facebook, MSN, ICQ, GoogleTalk, AIM, Yahoo and many other networks."
 msgstr ""
-"Hoia ühendust oma sõprade ja kontaktidega, e-maili, messengeri või muude "
-"sotsiaalsete ühenduste abil. Linux Mint sisaldab kõike, et toimiksid "
-"Twitter, Facebook, MSN, ICQ, GoogleTalk, AIM, Yahoo ja paljud muud tuntud "
-"rakendused."
+"Vestle oma sõprade ja kontaktidega e-maili, messengeri või muude "
+"sotsiaalsete ühendusteenustega. Linux Mint sisaldab kõike vajaminevat, et "
+"toimiksid Twitter, Facebook, MSN, ICQ, GoogleTalk, AIM, Yahoo ja paljud muud "
+"tuntud rakendused."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/mint/slides/chat.html:12 slideshows/mint/slides/music.html:12
@@ -69,8 +69,8 @@ msgid ""
 "to customize."
 msgstr ""
 "Tunne ennast koduselt ja muuda töölaua igat detaili. Valida on paljude "
-"erinevate teemade, ikoonide ja taustapiltide vahel. Linux Mint on avatud ja "
-"seda on lihtne kohandada."
+"erinevate teemade, ikoonide ja taustapiltide vahel. Linux Minti on väga "
+"lihtne kohandada."
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/help.html:1
@@ -87,9 +87,9 @@ msgid ""
 "communities on the Internet."
 msgstr ""
 "Kui sa oled uudishimulik või sul on probleeme - küsi. Linux Mint on neljas "
-"enim kasutatud operatsioonisüsteem maailmas. Linux Mintil on oma "
-"kasutusjuhend, veebileht, õpetuste kogu, aktiivsed foorumid ja jututoad ning "
-"üks dünaamiliseim kogukond internetis."
+"enim kasutatud operatsioonisüsteem maailmas ning sul on võimalik tutvuda "
+"meie kasutusjuhendiga, veebilehega, õpetuste koguga, aktiivse foorumiga ning "
+"jututubadega. Linux Mintil on üks dünaamiliseim kogukond internetis."
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/music.html:1
@@ -103,9 +103,10 @@ msgid ""
 "your audio CDs. Listen to podcasts and online radios. Discover new artists "
 "on Last.fm, the Internet Archive and the Amazon MP3 Store."
 msgstr ""
-"Oma muusikat võid nautida Banshee'ga. Ühenda oma MP3-mängija või pane lood "
-"arvutisse plaatidelt! Kuula taskuhäälingut või veebiraadiot! Leia uusi "
-"lemmikuid kasutades Last.FM'i, Interneti Arhiivi või Amazoni MP3 kauplust!"
+"Muusikat on sul võimalik nautida Banshee'ga. Ühenda oma MP3-mängija, kuula "
+"muusikat otse CD-lt või kopeeri oma laulud CD-lt arvutisse. Kuula podcaste "
+"või veebiraadiot! Leia uusi lemmikuid kasutades Last.FM'i, Internet "
+"Archive'i või Amazoni MP3 kauplust!"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/music.html:16
@@ -129,9 +130,9 @@ msgid ""
 "presentations that are fully compatible with Microsoft Office. Share "
 "printers or access them remotely."
 msgstr ""
-"Kasutage LibreOffice et luua professionaalseid dokumente, arvutustabeleid ja "
-"esitlusi, mis on täielikult ühilduvad Microsoft Office'ga. Jaga printereid "
-"või neile juurde pääseda eemalt."
+"Professionaalsete dokumentide, arvutustabelite ning võimsate esitluste "
+"loomiseks kasutage LibreOffice'it. Kõik failid on täielikult ühilduvad "
+"Microsoft Office'iga. Jaga printereid ning kasuta neid teistest arvutitest."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:16
@@ -160,9 +161,9 @@ msgid ""
 "albums to CD, to the Web, or to online services such as Flickr or PicasaWeb "
 "to share them with friends and family."
 msgstr ""
-"Korrasta, naudi ja jaga oma fotosid gThumbi või Picasaga. Jaga oma albumeid "
-"sõprade või perekonnaga ja ekspordi neid plaadile, veebi või sellistele "
-"saitidele nagu Flickr või PicasaWeb!"
+"Fotosid on sul võimalik korrastada ning jagada gThumbi või Picasaga. Jaga "
+"oma albumeid sõprade või perekonnaga ning ekspordi neid plaadile, veebi või "
+"sellistele saitidele nagu Flickr või PicasaWeb."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/photos.html:16
@@ -180,9 +181,11 @@ msgid ""
 "Browse through 30,000 free applications from the Software Manager. Enjoy "
 "screenshots and user reviews. Install software with one click of the mouse."
 msgstr ""
-"Sirvi rohkem kui 30 000 erinevat tasuta rakendust tarkvarahalduriga. Vaata "
-"pilte programmidest ja loe kasutajate ülevaateid. Soovi korral paigalda "
-"tarkvara vaid ühe klõpsuga."
+"Näpuotsa ulatuses on rohkem kui 30 000 erinevat tasuta rakendust, mida on "
+"sul võimalik sirvida tarkvarahalduriga. Iga rakenduse juures on pilt sellest "
+"ning kasutajate poolt kirjutatud ülevaated, et saaksid juba enne tarkvara "
+"allalaadimist korraliku ülevaate. Paigalda väljavalitud tarkvara vaid ühe "
+"ainsa klõpsuga."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/mint/slides/software.html:12
@@ -218,7 +221,7 @@ msgstr "Google Earth"
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/updates.html:1
 msgid "Keep your system up to date"
-msgstr "Süsteemi hoidmine ajakohasena"
+msgstr "Süsteemi uuendamine ning hoidmine ajakohasena"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/updates.html:8
@@ -226,22 +229,22 @@ msgid ""
 "Receive fixes and security updates all in one place, for the entire system, "
 "including the software you install."
 msgstr ""
-"Saa paranduste, turvalisuse ja tarkvara uuendused ühest kohast, terve "
-"süsteemi jaoks."
+"Kõikvõimalike tarkvara ning turvalisuse uuenduste paigaldamine on tehtud "
+"ülimalt lihtsaks, tuleb lihtsalt avada uuendamishaldur."
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/video.html:1
 msgid "Watch videos and DVDs"
-msgstr "Videode ja filmide vaatamine"
+msgstr "Videode, filmide ja DVD-de vaatamine"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/video.html:8
 msgid ""
 "Insert a DVD and enjoy a movie. Watch high-definition videos with VLC."
 msgstr ""
-"Lihtsalt sisesta oma DVD ja naudi oma filmi. Kui mõned koodekid puuduvad, "
-"siis need paigaldatakse automaatselt. Vaata HD videoid tuntud programmiga "
-"VLC."
+"Lihtsalt sisesta DVD arvutisse ning naudi filmi tuntud kõrgklassi "
+"rakendusega - VLC. Puuduvad multimeedia koodekid paigaldatakse sinu eest "
+"automaatselt - pole põhjust muretseda."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/video.html:16
@@ -290,7 +293,7 @@ msgstr "Java"
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/welcome.html:1
 msgid "Welcome to Linux Mint"
-msgstr "Tere tulemast Linux Minti kasutama!"
+msgstr "Tere tulemast kasutama Linux Minti!"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/welcome.html:8
@@ -298,8 +301,9 @@ msgid ""
 "Welcome and thank you for choosing Linux Mint. This slideshow will show you "
 "around while the system is being installed on your computer."
 msgstr ""
-"Tere tulemast ja suur tänu, et valisid Linux Minti. See esitlus tutvustab "
-"süsteemi paigalduse ajal Linux Minti ja selle rakendusi."
+"Tere tulemast ja suur tänu, et valisid Linux Minti. Samalajal kui süsteemi "
+"paigaldatakse sinu arvutisse, näidatakse sulle tutvustavat lühiesitlust "
+"Linux Minti kohta."
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/windows.html:1
@@ -312,8 +316,9 @@ msgid ""
 "Install Wine and run Windows software in Linux Mint. Or install Virtualbox, "
 "and run Windows itself within Linux Mint."
 msgstr ""
-"Paigalda Wine ja käivita Windowsi tarkvara Linux Mintis. Või paigalda "
-"Virtualbox ja kasuta Windowsit ennast Linux Mintis."
+"Windowsi tarkvara, mis ei ühildu Linuxiga, on võimalik käivitada rakendusega "
+"- Wine. Kui sellest jääb sulle väheks, siis paigalda Virtualbox ning käivita "
+"Windows Linux Mintis."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/windows.html:16

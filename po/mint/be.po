@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-10-29 12:31+0000\n"
-"PO-Revision-Date: 2012-05-26 21:05+0000\n"
-"Last-Translator: Mikhail_SaTuRn <mikhail_saturn@tut.by>\n"
+"PO-Revision-Date: 2014-04-24 10:00+0000\n"
+"Last-Translator: meequz <meequz@gmail.com>\n"
 "Language-Team: Belarusian <be@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-11-26 11:38+0000\n"
-"X-Generator: Launchpad (build 16840)\n"
+"X-Launchpad-Export-Date: 2014-05-03 20:44+0000\n"
+"X-Generator: Launchpad (build 16985)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/chat.html:1
@@ -39,7 +39,7 @@ msgstr ""
 #: slideshows/mint/slides/office.html:12 slideshows/mint/slides/photos.html:12
 #: slideshows/mint/slides/video.html:12 slideshows/mint/slides/web.html:12
 msgid "Included software"
-msgstr "Уключанае праграмнае забеспячэнне"
+msgstr "Уключаныя праграмы"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/chat.html:16
@@ -59,7 +59,7 @@ msgstr "Xchat"
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/customize.html:1
 msgid "Customize your desktop"
-msgstr "Налаштоўвайце ваш працоўны стол"
+msgstr "Падладжвайце асяроддзе пад сябе"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/customize.html:8
@@ -68,9 +68,8 @@ msgid ""
 "large variety of themes, icons and backgrounds. Linux Mint is open and easy "
 "to customize."
 msgstr ""
-"Пачувайце сябе па-хатняму: вы ў стане змяніць любую дэталь вашага працоўнага "
-"стала, выбраць тэмы, іконкі і шпалеры. Linux Mint адкрыты і спрыяльны для "
-"наладкі."
+"Пачувайцеся свабодна: змяняйце любую дэталь асяроддзя, выбірайце тэмы, "
+"значкі і абрусы. Linux Mint адкрыты і спрыяльны для настáўлення."
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/help.html:1
@@ -86,11 +85,11 @@ msgid ""
 "tutorials, active forums and chat rooms and one of the most dynamic "
 "communities on the Internet."
 msgstr ""
-"Калі вы зацікавіліся чымсьці альбо сутыкнуліся з праблемай, проста спытайце "
-"навокал. Linux Mint - 4-ая па пашыранасці ў свеце аперацыйная сістэма. Яна "
-"пастаўляецца з дапаможнікам карыстальніка, мае сайт суполкі, шэраг "
-"падручнікаў, актыўныя форумы і чаты, а таксама адно з найбольш дынамічных "
-"згуртаванняў у Інтэрнэце."
+"Зацікавіліся чымсьці ці сутыкнуліся з праблемай? Проста спытайце навокал. "
+"Linux Mint - чацвёртая па пашыранасці ў свеце аперацыйная сістэма. Яна "
+"пастаўляецца з дапаможнікам карыстальніка, мае сайт супольнасці, шэраг "
+"інструкцый, актыўныя форумы і чаты, а таксама адну з найбольш дынамічных "
+"супольнасцяў у інтэрнэце."
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/music.html:1
@@ -104,8 +103,8 @@ msgid ""
 "your audio CDs. Listen to podcasts and online radios. Discover new artists "
 "on Last.fm, the Internet Archive and the Amazon MP3 Store."
 msgstr ""
-"Атрымлівайце асалоду ад вашай музыкай з Banshee. Падлучыце свой ​​MP3-плэер "
-"або здабывайце песні з вашага аўдыё-CD. Слухайце падкасты і анлайн радыё. "
+"Атрымлівайце асалоду ад музыкі з Banshee. Падлучыце ​​MP3-плэер або "
+"выцягніце песні з вашага аўдыё-CD. Слухайце падкасты і анлайн-радыё. "
 "Адкрывайце для сябе новых выканаўцаў на Last.fm, Internet Archive і Amazon "
 "MP3 Store."
 
@@ -131,6 +130,9 @@ msgid ""
 "presentations that are fully compatible with Microsoft Office. Share "
 "printers or access them remotely."
 msgstr ""
+"Выкарыстоўвайце LibreOffice для стварэння прафесійных дакументаў, табліц і "
+"прэзентацый, цалкам сумяшчальных з Microsoft Office. Адкрывайце доступ да "
+"прынтара або карыстайцеся ім адлегла."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:16
@@ -140,12 +142,12 @@ msgstr "LibreOffice"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:20
 msgid "Microsoft Office Support"
-msgstr ""
+msgstr "Падтрымка Microsoft Office"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:24
 msgid "PDF Support"
-msgstr ""
+msgstr "Падтрымка PDF"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/photos.html:1
@@ -159,9 +161,9 @@ msgid ""
 "albums to CD, to the Web, or to online services such as Flickr or PicasaWeb "
 "to share them with friends and family."
 msgstr ""
-"Праглядайце, упарадкоўвайце і абменьвайцеся вашымі фотаздымкамі ў gThumb або "
-"Picasa. Экспартуйце вашыя альбомы на CD, у Сетку або анлайн сэрвісы, такія "
-"як Flickr ці PicasaWeb, робячы іх даступнымі для сваіх сяброў і блізкіх."
+"Праглядайце, парадкуйце і абменьвайцеся вашымі фотаздымкамі ў gThumb або "
+"Picasa. Экспартуйце вашыя альбомы на CD, у Сеціва або анлайн-сэрвісы, такія "
+"як Flickr ці PicasaWeb, каб зрабіць даступнымі для сяброў і блізкіх."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/photos.html:16
@@ -171,7 +173,7 @@ msgstr "gThumb"
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/software.html:1
 msgid "Install software"
-msgstr "Усталёўвайце праграмнае забеспячэнне"
+msgstr "Усталёўвайце праграмы"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/software.html:8
@@ -179,14 +181,15 @@ msgid ""
 "Browse through 30,000 free applications from the Software Manager. Enjoy "
 "screenshots and user reviews. Install software with one click of the mouse."
 msgstr ""
-"Адшукайце звыш 30 000 вольных праграм праз Менеджэр дастасаванняў - разам са "
-"скрыншотамі і водгаласамі. Усталёўвайце праграмы адзіным клікам мышы."
+"Выбірайце сярод 30 000 вольных праграм з дапамогай Кіраўніка праграм, "
+"глядзіце здымкі іх вокнаў і чытайце водгукі. Усталёўвайце праграмы адным "
+"пстрыкам мышы."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/mint/slides/software.html:12
 #: slideshows/mint/slides/windows.html:12
 msgid "Featured software"
-msgstr "Наладжаныя праграмы"
+msgstr "Папулярныя праграмы"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/software.html:16
@@ -224,8 +227,8 @@ msgid ""
 "Receive fixes and security updates all in one place, for the entire system, "
 "including the software you install."
 msgstr ""
-"Атрымлівайце выпраўленні і аднаўленні ў адным месцы - для ўсёй сістэмы, "
-"уключаючы ўсталяванае забеспячэнне"
+"Атрымлівайце ўсе выпраўленні і абнаўленні ў адным месцы, для ўсёй сістэмы, "
+"уключаючы ўсталяваныя праграмы."
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/video.html:1
@@ -237,7 +240,7 @@ msgstr "Глядзіце відэа і DVD-дыскі"
 msgid ""
 "Insert a DVD and enjoy a movie. Watch high-definition videos with VLC."
 msgstr ""
-"Устаўце DVD і цешыцеся дзеяй. Глядзіце высакаякаснае відэа з дапамогай VLC."
+"Устаўце DVD і цешцеся стужкамі. Глядзіце высокаякаснае відэа праз VLC."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/video.html:16
@@ -286,7 +289,7 @@ msgstr "Java"
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/welcome.html:1
 msgid "Welcome to Linux Mint"
-msgstr "Сардэчна запрашаем у Linux Mint!"
+msgstr "Вітаем у Linux Mint"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/welcome.html:8
@@ -295,13 +298,12 @@ msgid ""
 "around while the system is being installed on your computer."
 msgstr ""
 "Вітаем вас і дзякуем, што абралі Linux Mint. Гэтае слайдшоў распавядзе вам "
-"пра Linux Mint, пакуль аперацыйная сістэма будзе ўсталёўвацца на ваш "
-"кампутар."
+"пра Linux Mint, пакуль аперацыйная сістэма будзе ўсталёўвацца на кампутар."
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/windows.html:1
 msgid "Run Windows software"
-msgstr "Запускайце Windows-дастасаванні"
+msgstr "Запускайце Windows-праграмы"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/windows.html:8
@@ -309,8 +311,8 @@ msgid ""
 "Install Wine and run Windows software in Linux Mint. Or install Virtualbox, "
 "and run Windows itself within Linux Mint."
 msgstr ""
-"Усталюйце Wine і запусціце Windows-праграммы ў Linux Mint. Ці наладзьце "
-"Virtualbox - і выкарыстоўвайце ўласна Windows адначасова з Linux Mint."
+"Усталюйце Wine і запускайце Windows-праграммы ў Linux Mint. Ці ўсталюйце "
+"Virtualbox - і майце Windows адначасова з Linux Mint."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/windows.html:16
