@@ -1,3 +1,11 @@
+ubiquity-slideshow-mint (70mint8) qiana; urgency=medium
+
+  * Replaced Xchat with Hexchat
+  * Updated header style
+  * Updated screenshots
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 21 May 2014 11:07:34 +0100
+
 ubiquity-slideshow-mint (70mint7) qiana; urgency=medium
 
   * Updated translations
