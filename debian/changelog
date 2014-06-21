@@ -1,3 +1,9 @@
+ubiquity-slideshow-mint (70mint12) qiana; urgency=medium
+
+  * Fixed a typo in the German translation
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 21 Jun 2014 13:21:42 +0100
+
 ubiquity-slideshow-mint (70mint11) qiana; urgency=medium
 
   * Updated screenshot

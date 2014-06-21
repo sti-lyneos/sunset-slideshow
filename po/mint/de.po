@@ -244,7 +244,7 @@ msgstr "Videos und DVDs wiedergeben"
 msgid ""
 "Insert a DVD and enjoy a movie. Watch high-definition videos with VLC."
 msgstr ""
-"Eine DVD einlegen und einen Film genießen, hochauflösende Videos können mir "
+"Eine DVD einlegen und einen Film genießen, hochauflösende Videos können mit "
 "VLC abgespielt werden."
 
 #. type: Content of: <div><div><div><ul><li><p>
